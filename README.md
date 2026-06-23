@@ -4,6 +4,12 @@ Este projeto demonstra o uso do **padrão de projeto Visitor** em Java, aplicado
 
 ## 📌 Estrutura
 
+
+  ***DIAGRAMA DE CLASSES***
+
+  <img width="3014" height="2045" alt="592275628-a8edb0a2-8ba7-43f2-98e3-a2a57c1b6f60" src="https://github.com/user-attachments/assets/2c80b8ee-8406-44ee-b458-b685ed18f790" />
+
+
 - **Interface**
   - `ItemEstoque` → define o contrato para os itens do estoque, com o método `aceitar(Visitor)`.
 
